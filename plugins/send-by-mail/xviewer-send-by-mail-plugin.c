@@ -59,7 +59,7 @@ static const gchar * const ui_definition =
 static const GtkActionEntry action_entries[] =
 {
 	{ "XviewerPluginSendByMail",
-	  "xapp-mail-message-new-symbolic",
+	  "xsi-mail-message-new-symbolic",
 	  N_("Send by Mail"),
 	  NULL,
 	  N_("Send the selected images by mail"),
